@@ -1,0 +1,35 @@
+_repo: The-Reminiscences-of-Sir-Henry-Hawkins--Baron-Brampton-_10392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brampton, Henry Hawkins, Baron
+    aliases:
+    - Hawkins, Henry, Baron Brampton
+    - Brampton, Lord
+    birthdate: 1817
+    deathdate: 1907
+    gutenberg_agent_id: '3506'
+    url: http://www.gutenberg.org/2009/agents/3506
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Hawkins%2C_1st_Baron_Brampton
+  editor:
+    agent_name: Harris, Richard
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '34673'
+    url: http://www.gutenberg.org/2009/agents/34673
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Judges -- Great Britain -- Biography'
+- !lcsh 'Brampton, Henry Hawkins, Baron, 1817-1907'
+- !lcc 'KD'
+- GITenberg
+title: The Reminiscences of Sir Henry Hawkins (Baron Brampton)
+url: http://www.gutenberg.org/ebooks/10392
